@@ -25,8 +25,4 @@ The `split-timer.svg` wallpaper is original. Split Timer OS is an independent Ub
 See [FEATURES.md](FEATURES.md) for three local tools included for speedrunning.
 
 
-The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
